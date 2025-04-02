@@ -1,0 +1,24 @@
+.menu{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.men1{
+    align-items: center;
+
+}
+img{
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    
+}
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.men2{
+    margin-left: 100px;
+}

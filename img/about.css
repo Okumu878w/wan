@@ -1,0 +1,17 @@
+body{
+    background-image: url(img/about-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.im img{
+    width: 500px;
+    height: 500px;
+   border-radius: 10px;
+   
+}
+.about{
+    margin: 50px
+}
+.txt{
+    text-align: center;
+}

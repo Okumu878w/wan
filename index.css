@@ -1,0 +1,104 @@
+.space{
+    margin-left: 16px;
+}
+.space1{
+    margin-left: 150px;
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.space2{
+    margin-left: 300px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.space2 .btn1{
+border-radius: 40px;
+border-width: 2px;
+border-color: white;
+
+}
+    
+    
+
+
+body{
+    
+    background-image: url(img/he.bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.one{
+    margin-left: 16px;
+    margin-top: 12px;
+    
+}
+.two{
+    margin-left: 25px;
+    margin-top: 12px;
+    
+    
+}
+.home{
+    padding-left: 150px;
+    padding-top: 150px;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.hom{
+    padding-left: 150px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+.bt .btn2{
+    margin-left: 150px;
+    margin-top: 12px;
+    border-radius: 40px;
+border-width: 2px;
+border-color: white;
+
+}
+.foot1{
+    margin-left: 150px;
+    margin-right: 60px;
+}
+.foot{
+   margin-top: 100px;
+}
+.foot2{
+    margin-left: 100px;
+    margin-right: 60px;
+
+}
+.foot3{
+    margin-left: 100px;
+    margin-right: 60px;
+}
+.foot4{
+    margin-left: 100px;
+    margin-right: 60px;
+}
+.ftimg1{
+    width: 30px;
+    height: 30px;
+    border-radius: 20%;
+}
+.ftimg2{
+    width: 30px;
+    height: 30px;
+    border-radius: 20%;
+}
+.ftimg3{
+    width: 30px;
+    height: 30px;
+    border-radius: 20%;
+}
+.ftimg4{
+    width: 30px;
+    height: 30px;
+    border-radius: 20%;
+}

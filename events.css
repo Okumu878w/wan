@@ -1,0 +1,16 @@
+img{
+    height: 300px;
+    width: 400px;
+}
+.event{
+    margin-left: 150px;
+}
+body{
+    background-image: url(img/events-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+
+
+
+}
